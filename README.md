@@ -7,8 +7,9 @@ This project is perfect for:
 - 💼 Professionals preparing for interviews in retail, e-commerce, or product analytics roles
 
 # **🎥 Watch this [YouTube video](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2) to implement the full project from scratch:**  
-[![SQL Data Analyst Portfolio Project using Zepto Inventory Dataset](https://github.com/user-attachments/assets/a1895ada-15e4-4f98-aa0d-597a4092c845)](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2)
+[![Advanced Data Analysis Portfolio Project using Retail Customer Data](https://github.com/user-attachments/assets/abbb6371-a0b2-4bec-a304-7c7da98658b6)](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2)
 🔗 *Link to Video:* [Watch on Youtube](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2)
+
 
 ## 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
@@ -70,7 +71,7 @@ MIT — feel free to fork, star, and use in your portfolio.
 Hey, I’m Amlan Mohanty, a Data Analyst & Content Creator.
 I break down complex data topics into simple, practical content that actually helps you land a job.
 
- ### 🚀 Stay Connected & Join the Data Drool Community
+ ### 🚀 Stay Connected & Join my Data Community
 If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
 
 🎥 YouTube: [Amlan Mohanty](https://www.youtube.com/@amlanmohanty1)
