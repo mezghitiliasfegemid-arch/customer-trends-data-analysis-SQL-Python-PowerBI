@@ -4,7 +4,7 @@ This project represents a complete, industry standard, end-to-end data analytics
 This project is perfect for:
 - 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
 - 📚 Anyone learning Python, SQL, and Power BI
-- 💼 Professionals preparing for interviews in retail, e-commerce, or product analytics roles
+- 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
 
 # **🎥 Watch this [YouTube video](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2) to implement the full project from scratch:**  
 [![Advanced Data Analysis Portfolio Project using Retail Customer Data](https://github.com/user-attachments/assets/abbb6371-a0b2-4bec-a304-7c7da98658b6)](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2)
